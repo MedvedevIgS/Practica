@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1588493156 source:c:\Практика 2 сем\Практика\main.cpp
+	<iostream>
+	<vector>
+	"SVG.h"
+	"plant.h"
+	"fun.h"
+
+1588269313 c:\Практика 2 сем\Практика\svg.h
+	<iostream>
+	<vector>
+
+1581573240 c:\Практика 2 сем\Практика\plant.h
+
+1581573240 source:c:\Практика 2 сем\Практика\plant.c
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"plant.h"
+
+1588493366 source:c:\Практика 2 сем\Практика\svg.cpp
+	"SVG.h"
+	"fun.h"
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<cstring>
+
+1588441721 source:c:\Практика 2 сем\Практика\fun.cpp
+	"fun.h"
+	<iostream>
+
+1588441832 c:\Практика 2 сем\Практика\fun.h
+	<iostream>
+	<vector>
+
+1588507493 source:c:\Практика 2 сем\Практика часть1\fun.cpp
+	"fun.h"
+	<iostream>
+
+1588507145 c:\Практика 2 сем\Практика часть1\fun.h
+	<iostream>
+	<vector>
+
+1581573240 source:c:\Практика 2 сем\Практика часть1\plant.c
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"plant.h"
+
+1581573240 c:\Практика 2 сем\Практика часть1\plant.h
+
+1588510927 source:c:\Практика 2 сем\Практика часть1\svg.cpp
+	"SVG.h"
+	"fun.h"
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<cstring>
+
+1588269313 c:\Практика 2 сем\Практика часть1\svg.h
+	<iostream>
+	<vector>
+
+1588509575 source:c:\Практика 2 сем\Практика часть1\main.cpp
+	<iostream>
+	<vector>
+	"SVG.h"
+	"plant.h"
+	"fun.h"
+
